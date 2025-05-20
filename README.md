@@ -1,6 +1,8 @@
 # Fusion-MTSI
 
-Implementation of the paper **“Fusion‑MTSI: Fusion‑Based Multivariate Time Series Imputation”** (Journal of Advances in Information Technology, Vol. 16, No. 5, 2025).
+Fusion-MTSI is a robust and generalizable imputation algorithm for multivariate time series with missing values. It combines **feature-wise (global)** relationships and **point-wise (local)** temporal patterns using a dual-distance fusion strategy, integrating Spearman correlation, DTW, and MSM distances. This enables accurate restoration of missing segments—even under complex nonlinear interactions and consecutive gaps—without relying on domain-specific knowledge or sliding-window tuning.
+
+Implementation of the paper **“Fusion‑MTSI: Fusion‑Based Multivariate Time Series Imputation”** (*Journal of Advances in Information Technology*, Vol. 16, No. 5, 2025). 
 
 PDF: [https://www.jait.us/articles/2025/JAIT-V16N5-666.pdf](https://www.jait.us/articles/2025/JAIT-V16N5-666.pdf)
 
