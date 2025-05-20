@@ -131,5 +131,5 @@ Copyright © 2025 by the authors. This is an open access article distributed und
 
 ## Contact
 
-* **Sangyong Lee** – [sangyong1996@gmail.com](mailto:sangyong1996@gmail.com)
+* [sangyong1996@gmail.com](mailto:sangyong1996@gmail.com)
 * Issues and pull requests are welcome!
