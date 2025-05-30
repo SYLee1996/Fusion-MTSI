@@ -6,6 +6,7 @@ Implementation of the paper **“Fusion‑MTSI: Fusion‑Based Multivariate Time
 
 PDF: [https://www.jait.us/articles/2025/JAIT-V16N5-666.pdf](https://www.jait.us/articles/2025/JAIT-V16N5-666.pdf)
 
+google-site-verification: google912caf8e81cdc424.html
 ---
 
 ## Project structure
